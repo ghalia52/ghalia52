@@ -34,11 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ghalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghalia52&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghalia52&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghalia%20Benaissa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ghalia-benaissa-488aa91a6/)
