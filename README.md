@@ -1,4 +1,6 @@
 # Hi there 👋 I'm Ghalia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghalia%20Benaissa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ghalia-benaissa-488aa91a6/)
+[![Email](https://img.shields.io/badge/Email-ghalia.benais%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ghalia.benais@gmail.com)
 
 💡 AI/ML Engineer in progress | NLP & LLM Enthusiast | Computer Vision Learner  
 ☁️ Cloud & DevOps Explorer  
@@ -39,8 +41,9 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghalia%20Benaissa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ghalia-benaissa-488aa91a6/)  
-📧 Email: **ghalia.benais@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghalia%20Benaissa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ghalia-benaissa-488aa91a6/)
+[![Email](https://img.shields.io/badge/Email-ghalia.benais%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ghalia.benais@gmail.com)
+
 
 ---
 
